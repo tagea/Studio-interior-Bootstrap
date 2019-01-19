@@ -4,4 +4,4 @@
 
 Используется фреймворк bootstrap. Настроена адаптивность
 
-Web-версия [Studio interior](https://tagea.github.io/web-interior-bootstrap/)
+Web-версия [Studio interior](https://tagea.github.io/Studio-interior-Bootstrap/)
