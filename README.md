@@ -1,6 +1,6 @@
 # Studio interior
 
-Макет [ссылка на файл](https://www.dropbox.com/s/ojovy913k8cix42/interior-home-page.psd?dl=0)
+Макет [ссылка на файл](https://www.dropbox.com/sh/8jkug114xrgh2js/AACw94sh4XamX9T58RyDhcHIa?dl=0)
 
 Используется фреймворк bootstrap. Настроена адаптивность
 
